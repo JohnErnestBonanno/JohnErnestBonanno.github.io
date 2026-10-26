@@ -20,7 +20,7 @@ author:
       url: "https://github.com/JohnErnestBonanno"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin-name"
+      url: "https://www.linkedin.com/in/john-bonanno/"
 
 defaults:
   - scope:
