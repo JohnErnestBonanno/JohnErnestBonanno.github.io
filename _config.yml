@@ -1,0 +1,31 @@
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+
+title: John Bonanno
+name: John Bonanno
+description: Data-driven storyteller
+url: "https://johnernestbonanno.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+author:
+  name: John Bonanno
+  bio: "Data-driven storyteller exploring new data sources and their implications."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JohnErnestBonanno"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/your-linkedin-name"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
