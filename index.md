@@ -19,3 +19,4 @@ I've also had the opportunity throughout my career to write on both Measurement 
 ## External Publications
 
 ## Side Projects
+    - [Animorphs, Unique Morphs, and Graph Databases](https://github.com/JohnErnestBonanno/animorphs_graph_data)
