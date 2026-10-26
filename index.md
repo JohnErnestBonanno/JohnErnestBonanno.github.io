@@ -16,7 +16,7 @@ I try to post/share content on LinkedIn on topics I find interesting including:
 
 I've also had the opportunity throughout my career to write on both Measurement & Verification and Connected TV throughout my career (links)
 
-## [External Publications](/publications/)
+## [List of External Publications](/publications/)
 
 ## Side Projects
-    - [Animorphs, Unique Morphs, and Graph Databases](https://github.com/JohnErnestBonanno/animorphs_graph_data)
+* [Animorphs, Unique Morphs, and Graph Databases](https://github.com/JohnErnestBonanno/animorphs_graph_data)
