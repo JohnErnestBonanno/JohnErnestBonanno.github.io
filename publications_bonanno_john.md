@@ -5,7 +5,7 @@ permalink: /publications/
 
 Various external facing blogs posts throughout my career with themes of Connected TV and Measurement & Verification. 
 
-### LG Ad Solutions
+## LG Ad Solutions
 
 [Adapting the Sports Advertising Playbook: Lessons from the 12-team 2024 College Football Playoffs](https://lgads.tv/insights/adapting-the-sports-advertising-playbook-lessons-from-the-12-team-2024-college-football-playoffs/)
 
@@ -41,7 +41,9 @@ Various external facing blogs posts throughout my career with themes of Connecte
 
 [May the 4th Be With You: Viewership Insights across the Prequel, Original, and Sequel Trilogies](https://web.archive.org/web/20230507070842/lgads.tv/insights/may-the-4th-be-with-you/)
 
-### Integral Ad Science
+
+
+## Integral Ad Science
 
 [News of the Impeachment Hasn’t Affected Most Brands’ Suitability Strategies—Yet](https://integralads.com/insider/impeachment-brand-suitability-strategies/)
 
