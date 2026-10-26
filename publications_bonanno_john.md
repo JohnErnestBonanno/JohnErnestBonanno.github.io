@@ -1,3 +1,8 @@
+---
+title: External Publications
+permalink: /publications/
+---
+
 Various external facing blogs posts throughout my career with themes of Connected TV and Measurement & Verification. 
 
 ### LG Ad Solutions
