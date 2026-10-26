@@ -1,3 +1,6 @@
+---
+title: About Me
+---
 ### Hi! I'm John Bonanno. 
 
 I’m a data-driven storyteller looking to explore new data sources and understand their implications. I'm happiest when using numbers to inform strategy’s core tenets of “where to play and how to win.”
