@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
-title: John Bonanno
+title: Portfolio
 name: John Bonanno
 description: Data-driven storyteller
 url: "https://johnernestbonanno.github.io"
@@ -13,7 +13,7 @@ plugins:
 
 author:
   name: John Bonanno
-  bio: "Data-driven storyteller exploring new data sources and their implications."
+  bio: "A Data-driven storyteller exploring new data sources and how they impact strategy."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
